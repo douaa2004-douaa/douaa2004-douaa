@@ -18,7 +18,7 @@ Growth driven by curiosity, practice, and CTFs 🏴‍☠️🔐</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douaa2004-douaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![douaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=douaa2004-douaa&show_icons=true&theme=tokyonight&count_private=true)
+
 
 
 
