@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**douaa2004-douaa/douaa2004-douaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student at the Higher Institute of Technological Studies of Zaghouan 🎓
+Network and System Information 🌐
+Broad knowledge across IT systems and networks 🧠
+Growth driven by curiosity, practice, and CTFs 🏴‍☠️🔐
 
-Here are some ideas to get you started:
+https://www.linkedin.com/in/douaa-khemiri-0b067a343/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
