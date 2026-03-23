@@ -1,9 +1,9 @@
 ## Hellows It's do3do3 💃
 
-IT Student at the Higher Institute of Technological Studies of Zaghouan 🎓</br>
+IT Student at the Higher Institute of Technological Studies of Zaghouan </br>
 Network and System Information 🌐</br>
-Broad knowledge across IT systems and networks 🧠</br>
-Growth driven by curiosity, practice, and CTFs 🏴‍☠️🔐</br>
+Broad knowledge across IT systems and networks </br>
+Growth driven by curiosity, practice, and CTFs </br>
 
 
 
